@@ -1,1 +1,2 @@
-# comp_sci_sem1
+# TPoole22
+Mr. Poole's 2021-2022 Textbook for Computer Science
